@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<JWM>
+	<StartupCommand>xscreensaver -no-splash</StartupCommand>
+    <StartupCommand>pulseaudio -D</StartupCommand>
+    <StartupCommand>pa-applet</StartupCommand>
+	<StartupCommand>lxpolkit &</StartupCommand>
+	<StartupCommand>picom --config ~/.config/picom.conf &</StartupCommand>
+</JWM>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from David Andrew's WatercolourPup -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#D8E4F8</Foreground>
+    <Background>#2C60B2:#2C60B2</Background>         
+    <Outline>#7DB1FB</Outline>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#3573D6:#5297F9</Background>
+      <Outline>#7DB1FB</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000</Foreground>
+    <Background>#fff:#EFEBE7</Background>
+    <Active>
+      <Foreground>#000</Foreground>
+      <Background>#ADCFFF</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Font>Sans-10</Font>
+    <Outline>#bebebe</Outline>
+    <Foreground>#2C60B2</Foreground>
+    <Background>#2C60B2</Background>
+    <Active>
+      <Foreground>#5297F9</Foreground>
+      <Background>#3573D6</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#7DB1FB</Outline>
+    <Foreground>#000000</Foreground>
+    <Background>#EBEBE4</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000</Foreground>
+    <Background>#EBEBE4</Background>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#3573D6:#5297F9</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

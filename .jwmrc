@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<JWM>
+	<Include>$HOME/.jwm/startup</Include>
+	<Include>$HOME/.jwm/menu</Include>
+	<Include>$HOME/.jwm/groups</Include>
+	<Include>$HOME/.jwm/desktop</Include>
+	<Include>$HOME/.jwm/tray_panel</Include>
+	<Include>$HOME/.jwm/keys</Include>
+	<Include>$HOME/.jwm/iconspaths_jwm/elementary</Include>
+	<Include>$HOME/.jwm/themes/JWMKit-Dark.theme</Include>
+</JWM>

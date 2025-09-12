@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<JWM>
+    <RootMenu onroot="12">
+    	<Program icon="/usr/share/icons/elementosh-Latte/apps/scalable/accessories-text-editor.svg" label="Text Editor">leafpad --tab-width=4</Program>
+		<Program icon="/usr/share/icons/elementosh-Latte/apps/scalable/terminal.svg" label="Terminal">rxvt</Program>
+		<Program icon="/usr/share/icons/elementosh-Latte/apps/scalable/browser.svg" label="Web Broswer">firefox-esr</Program>
+		<Include>exec: xdgmenumaker -n -i -f jwm</Include>
+    	<Separator/>
+    	<Program icon="lock" label="Lock">xscreensaver-command -lock</Program>
+		<Separator/>
+    	<Restart label="Restart" icon="reload"/>
+    	<Program label="Power Off">/usr/libexec/jwm/jwm-poweroff.sh</Program>
+     	<Exit label="Log Out" confirm="true" icon="exit"/>
+    </RootMenu>
+</JWM>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from David Andrew's UbuntuStudio -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#C5C5C5</Foreground>
+    <Background>#646464:#000000</Background>         
+    <Outline>#000000</Outline>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#6d6d6d:#202020</Background>
+      <Outline>#a3a4a4</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#C5C5C5</Foreground>
+    <Background>#646464:#000000</Background>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#20A4F6:#0899F2</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Font>Sans-10</Font>
+    <Outline>#bebebe</Outline>
+    <Foreground>#000000</Foreground>
+    <Background>#646464</Background>
+    <Active>
+      <Foreground>#4E5D73</Foreground>
+      <Background>#000000</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#000000</Outline>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#000000</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#C5C5C5</Foreground>
+    <Background>#5A5A5A</Background>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#20A4F6:#0899F2</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

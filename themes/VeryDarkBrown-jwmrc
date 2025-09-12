@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from Barry Kauler's VeryDarkBrown -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#DD9988</Foreground>
+    <Background>#060000</Background>         
+    <Outline>#FFC184</Outline>
+    <Active>
+      <Foreground>#FFEAA0</Foreground>
+      <Background>#391612:#3C1B16</Background>
+      <Outline>#FFC184</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#BD7968</Foreground>
+    <Background>#060000</Background>
+    <Active>
+      <Foreground>#FEDA90</Foreground>
+      <Background>#391612:#3C1B16</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>grey</Outline>
+    <Foreground>#060000</Foreground>
+    <Background>#3C1B16</Background>
+    <Active>
+      <Foreground>#361000</Foreground>
+      <Background>#693642</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#FFC184</Outline>
+    <Foreground>#070101</Foreground>
+    <Background>#F1AD70</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#CD8978</Foreground>
+    <Background>#251210</Background>
+    <Active>
+      <Foreground>#FFEAA0</Foreground>
+      <Background>#391612:#3C1B16</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

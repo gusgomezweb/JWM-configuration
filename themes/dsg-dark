@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<JWM>
+ 	<WindowStyle>
+		<Font>Dejavu Sans-12</Font>
+   		<Width>1</Width>
+   		<Foreground>#FFFFFF</Foreground>
+   		<Background>#303438:#606468</Background>
+   		<Outline>#000000</Outline>
+    		<Active>
+        		<Foreground>#FFFFFF</Foreground>
+        		<Background>#2E3A67:#70849D</Background>
+        		<Outline>#000000</Outline>
+    		</Active>
+    		<Inactive>
+        		<Foreground>#CCCCCC</Foreground>
+        		<Background>#505050:#707070</Background>
+        		<Outline>#000000</Outline>
+    		</Inactive>
+	</WindowStyle>
+
+	<TrayStyle>
+   		<Font>Dejavu Sans-12</Font>
+    	<Foreground>#FFFFFF</Foreground>
+    	<Background>#303438:#606468</Background>
+    	<Active>
+        	<Foreground>#FFFFFF</Foreground>
+        	<Background>#2E3A67:#70849D</Background>
+    	</Active>
+	</TrayStyle>
+
+	<PagerStyle>
+    	<Font>Dejavu Sans-12</Font>
+    	<Outline>#000000</Outline>
+    	<Foreground>#FFFFFF</Foreground>
+    	<Background>#404040</Background>
+    	<Active>
+        	<Foreground>#FFFFFF</Foreground>
+        	<Background>#2E3A67</Background>
+    	</Active>
+	</PagerStyle>
+
+	<PopupStyle>
+    	<Font>Dejavu Sans-12</Font>
+    	<Outline>#000000</Outline>
+    	<Foreground>#FFFFFF</Foreground>
+    	<Background>#202020</Background>
+	</PopupStyle>
+
+	<MenuStyle>
+    	<Font>Dejavu Sans-12</Font>
+    	<Foreground>#FFFFFF</Foreground>
+    	<Background>#303438</Background>
+    	<Active>
+        	<Foreground>#FFFFFF</Foreground>
+        	<Background>#2E3A67:#70849D</Background>
+    	</Active>
+	</MenuStyle>
+</JWM>

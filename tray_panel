@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<JWM>
+	<!-- Tray at the bottom. -->
+    <Tray x="0" y="-1" height="32" autohide="off" delay="1000">
+       	<TrayButton icon="/usr/share/jwm/jwm-blue.svg">root:1</TrayButton>
+        <Spacer width="2"/>
+        <TrayButton icon="/usr/share/icons/Adwaita/symbolic/ui/window-minimize-symbolic.svg">showdesktop</TrayButton>
+        <Spacer width="2"/>
+        <Pager labeled="false"/>
+        <TaskList  maxwidth="256"/>        
+		<Swallow width="32" height="32" name="Conexión de internet">nm-applet</Swallow>
+        <Swallow width="32" height="32" name="xclock">xclock</Swallow>
+        <Dock/>
+        <Clock format="%l:%M %p"><Button mask="123">exec:xclock</Button></Clock>
+    </Tray>
+</JWM>

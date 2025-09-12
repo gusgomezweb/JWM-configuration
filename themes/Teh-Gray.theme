@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from Iguleder's Teh Gray -->
+<WindowStyle>
+   <Font>Sans-10</Font>
+   <Width>3</Width>
+   <Foreground>#999999</Foreground>
+   <Background>#e2e2de</Background>
+   <Outline>#000000</Outline>
+   <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#777777</Background>
+      <Outline>#000000</Outline>
+   </Active>
+</WindowStyle>
+<TrayStyle>
+   <Font>Sans-10</Font>
+   <Foreground>#000000</Foreground>
+   <Background>#777777</Background>
+   <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#999999</Background>
+   </Active>
+</TrayStyle>
+<PagerStyle>
+   <Font>Sans-10</Font>
+   <Outline>black</Outline>
+   <Foreground>#e5e5e5</Foreground>
+   <Background>#777777</Background>
+   <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#bdbdbd</Background>
+   </Active>
+</PagerStyle>
+<MenuStyle>
+   <Font>Sans-10</Font>
+   <Foreground>#000000</Foreground>
+   <Background>#777777</Background>
+   <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#999999</Background>
+   </Active>
+</MenuStyle>
+</JWM>

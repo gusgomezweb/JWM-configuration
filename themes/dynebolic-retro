@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<JWM>
+
+	<WindowStyle>
+		<Font>Dejavu Sans-12</Font>
+		<Width>2</Width>
+		<Foreground>#FFFFFF</Foreground>
+		<Background>#2C2C2C:#3C3C3C</Background>
+		<Outline>#000000</Outline>
+
+		<Active>
+			<Foreground>#FFFFFF</Foreground>
+			<Background>#FF6600:#FF9933</Background>
+			<Outline>#000000</Outline>
+		</Active>
+
+		<Inactive>
+			<Foreground>#CCCCCC</Foreground>
+			<Background>#3A3A3A:#4C4C4C</Background>
+			<Outline>#000000</Outline>
+		</Inactive>
+	</WindowStyle>
+
+	<TrayStyle>
+		<Font>Dejavu Sans-12</Font>
+		<Foreground>#FFFFFF</Foreground>
+		<Background>#2C2C2C:#3C3C3C</Background>
+
+		<Active>
+			<Foreground>#FFFFFF</Foreground>
+			<Background>#FF6600:#FF9933</Background>
+		</Active>
+	</TrayStyle>
+
+	<PagerStyle>
+		<Font>Dejavu Sans-12</Font>
+		<Outline>#000000</Outline>
+		<Foreground>#FFFFFF</Foreground>
+		<Background>#2A2A2A</Background>
+
+		<Active>
+			<Foreground>#FFFFFF</Foreground>
+			<Background>#FF6600</Background>
+		</Active>
+	</PagerStyle>
+
+	<PopupStyle>
+		<Font>Dejavu Sans-12</Font>
+		<Outline>#000000</Outline>
+		<Foreground>#FFFFFF</Foreground>
+		<Background>#1A1A1A</Background>
+	</PopupStyle>
+
+	<MenuStyle>
+		<Font>Dejavu Sans-12</Font>
+		<Foreground>#FFFFFF</Foreground>
+		<Background>#2C2C2C</Background>
+
+		<Active>
+			<Foreground>#FFFFFF</Foreground>
+			<Background>#FF6600:#FF9933</Background>
+		</Active>
+	</MenuStyle>
+
+</JWM>

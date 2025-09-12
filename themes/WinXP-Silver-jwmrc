@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from David Andrew's WinXPSilver -->
+
+  <WindowStyle>
+    <Font>Sans-10:bold</Font>
+    <Width>3</Width>
+    <Foreground>#a2a1a1</Foreground>
+    <Background>#cbccda:#fefefe</Background>         
+    <Outline>#6C6B87</Outline>
+    <Active>
+      <Foreground>#000</Foreground>
+      <Background>#A4A3BE:#F6F7F9</Background>
+      <Outline>#6C6B87</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000</Foreground>
+    <Background>#9E9DB6:#ECEBEC</Background>
+    <Active>
+      <Foreground>#000</Foreground>
+      <Background>#fefefe:#cbccda</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Font>Sans-10</Font>
+    <Outline>#6C6B87</Outline>
+    <Foreground>#F8F8F9</Foreground>
+    <Background>#A4A3BE</Background>
+    <Active>
+      <Foreground>#D2D1F3</Foreground>
+      <Background>#DBDBDC</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#6C6B87</Outline>
+    <Foreground>#000000</Foreground>
+    <Background>#fff</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000</Foreground>
+    <Background>#fff</Background>
+    <Active>
+      <Foreground>#000</Foreground>
+      <Background>#9E9DB6:#ECEBEC</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

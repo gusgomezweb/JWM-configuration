@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<JWM>
+ <WindowStyle decorations="motif">
+        <Font>Unifont-12</Font>
+        <Width>7</Width>
+        <Corner>0</Corner>
+        <Foreground>#eeeeee</Foreground>
+        <Background>#c0c0c0</Background>
+        <Opacity>0.1</Opacity>
+        <Active>
+            <Foreground>#000000</Foreground>
+            <Background>#c0c0c0</Background>
+            <Opacity>1.0</Opacity>
+        </Active>
+    </WindowStyle>
+    <TrayStyle decorations="motif">
+        <Font>Unifont-12</Font>
+        <Background>#c0c0c0</Background>
+        <Foreground>#000000</Foreground>
+        <Opacity>1.0</Opacity>
+    </TrayStyle>
+    <TaskListStyle list="all" group="true">
+      <Font>Unifont-12</Font>
+      <Active>
+        <Foreground>#000000</Foreground>
+        <Background>#ffffff</Background>
+      </Active>
+      <Minimized>
+        <Foreground>#000000</Foreground>
+        <Background>#ffffff</Background>
+      </Minimized>
+      <Foreground>#000000</Foreground>
+      <Background>#c0c0c0</Background>
+    </TaskListStyle>
+    <PagerStyle>
+        <Foreground>#a0a0a0</Foreground>
+        <Background>#c0c0c0</Background>
+        <Text>#000000</Text>
+        <Active>
+            <Foreground>#008080</Foreground>
+            <Background>#eeeeee</Background>
+        </Active>
+    </PagerStyle>
+    <MenuStyle decorations="motif">
+        <Font>Unifont-12</Font>
+        <Foreground>#000000</Foreground>
+        <Background>#c0c0c0</Background>
+        <Active>
+            <Foreground>#FFFFFF</Foreground>
+            <Background>#000080</Background>
+        </Active>
+        <Opacity>1.0</Opacity>
+    </MenuStyle>
+    <PopupStyle>
+        <Font>Unifont-12</Font>
+        <Foreground>#ffffff</Foreground>
+        <Background>#000000</Background>
+    </PopupStyle>
+
+</JWM>

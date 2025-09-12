@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<JWM>
+ <!-- Path where icons can be found.
+         IconPath can be listed multiple times to allow searching
+         for icons in multiple paths.
+      -->
+    <IconPath>/usr/share/icons/elementosh-Latte/actions</IconPath>
+	<IconPath>/usr/share/icons/elementosh-Latte/categories</IconPath>
+	<IconPath>/usr/share/icons/elementosh-Latte/devices</IconPath>
+	<IconPath>/usr/share/icons/elementosh-Latte/emblems</IconPath>
+	<IconPath>/usr/share/icons/elementosh-Latte/mimes</IconPath>
+	<IconPath>/usr/share/icons/elementosh-Latte/places</IconPath>
+	<IconPath>/usr/share/icons/elementosh-Latte/status</IconPath>
+</JWM>

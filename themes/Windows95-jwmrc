@@ -1,0 +1,62 @@
+<JWM>
+
+<WindowStyle>
+    <Font antialias="true">FreeSans   -12</Font>
+    <Width>4</Width>
+    <Height>25</Height> 
+<!--       <Corner>0</Corner> -->
+    <Active>
+       <Text>#FFFFFF</Text>
+       <Title>#000080:#000080</Title>
+<!--       <Corner>#000080</Corner> -->
+       <Outline>#D3D3D3</Outline>
+    </Active>
+    <Inactive>
+       <Text>#000000</Text>
+       <Title>#808080:#808080</Title>         
+<!--       <Corner>#808080</Corner> -->
+       <Outline>#D3D3D3</Outline>
+    </Inactive>
+</WindowStyle> 
+
+<TaskListStyle>
+<Font>FreeSans   -12</Font>
+<ActiveForeground>#FFFFFF</ActiveForeground>
+<ActiveBackground>#000080:#000080</ActiveBackground>
+<Background>#808080:#808080</Background>
+</TaskListStyle>
+
+	<!-- TRAY PROPERTIES -->
+
+	<TrayStyle>
+		<Font>FreeSans   -12</Font>
+		<Foreground>#000000</Foreground>
+		<Background>#C0C0C0</Background>
+	</TrayStyle>
+
+	<!-- PAGER PROPERTIES -->
+
+	<PagerStyle>
+		<Outline>grey</Outline>
+		<Foreground>#808080</Foreground>
+		<Background>#808080</Background>
+		<ActiveForeground>#000080</ActiveForeground>
+		<ActiveBackground>#000080</ActiveBackground>
+	</PagerStyle>
+
+	<PopupStyle>
+		<Font>FreeSans   -12</Font>
+		<Outline>#D3D3D3</Outline>
+		<Foreground>grey</Foreground>
+		<Background>#C0C0C0</Background>
+	</PopupStyle>
+
+	<MenuStyle>
+		<Font>FreeSans   -12</Font>
+		<Foreground>#000000</Foreground>
+		<Background>#C0C0C0</Background>
+		<ActiveForeground>#FFFFFF</ActiveForeground>
+		<ActiveBackground>#000080:#000080</ActiveBackground>
+	</MenuStyle>
+
+</JWM>

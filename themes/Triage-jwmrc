@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from `f00's triage -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#37403f</Background>         
+    <Outline>#777777</Outline>
+    <Active>
+      <Foreground>#c7c7c7</Foreground>
+      <Background>#2c3332</Background>
+      <Outline>#e6daaa</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#545D57</Background>
+    <Active>
+      <Foreground>#e6daaa</Foreground>
+      <Background>#2c3332</Background>
+    </Active>
+    <Opacity>0.45</Opacity>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>#90a8a7</Outline>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#37403f</Background>
+    <Active>
+      <Foreground>#37403F</Foreground>
+      <Background>#90a8a7</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#90a8a7</Outline>
+    <Foreground>black</Foreground>
+    <Background>#90a8a7</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#545D57</Background>
+    <Opacity>0.75</Opacity>
+    <Active>
+      <Foreground>#c7c7c7</Foreground>
+      <Background>#2c3332</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

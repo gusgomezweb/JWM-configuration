@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from `f00's tveiled -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#47333c:#8e86bf</Background>         
+    <Outline>#47333c</Outline>
+    <Active>
+      <Foreground>#c7c7c7</Foreground>
+      <Background>#73503f:#e69356</Background>
+      <Outline>#e69356</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#47333c</Background>
+    <Active>
+      <Foreground>#c7c7c7</Foreground>
+      <Background>#73503f:#e69356</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>#8e86bf</Outline>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#47333c</Background>
+    <Active>
+      <Foreground>#47333C</Foreground>
+      <Background>#BE7C4E</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#47333c</Outline>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#6a5c7d</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#47333c</Background>
+    <Active>
+      <Foreground>#c7c7c7</Foreground>
+      <Background>#73503f:#e69356</Background>
+    </Active>
+    <Opacity>0.75</Opacity>
+  </MenuStyle>
+
+</JWM>
